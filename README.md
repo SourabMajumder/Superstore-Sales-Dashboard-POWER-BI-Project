@@ -6,6 +6,7 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 To contribute to business success by applying data visualization techniques that uncover key patterns in sales, profit, and customer behavior.
 
 🧰Tools & Skills Used
+
 Microsoft Power BI
 Data Analysis
 DAX (Data Analysis Expressions)
@@ -13,6 +14,7 @@ Data Visualization
 Problem Solving
 
 📈 Dashboard Features & Insights
+
 ✅ Key Metrics:
 Orders: 22K
 Sales: 1.6M
@@ -20,6 +22,7 @@ Profit: 175K
 Average Ship Days: 4
 
 📦 Sales Breakdown:
+
 🔹 Sales by Month
 Trend analysis shows seasonal fluctuations, with a steady rise toward December.
 
@@ -37,6 +40,7 @@ Top Sub-Category: Phones (197K)
 Chairs and Binders also drive significant revenue.
 
 🚚 Operational Insights:
+
 Sales by Ship Mode
 Standard Class: Dominant shipping method (0.91M in sales)
 
@@ -53,11 +57,13 @@ Consumer Segment: Highest contributor (48%)
 Corporate and Home Office make up the rest
 
 Sales by Payment Mode
+
 COD (Cash on Delivery): 43%
 Online: 35%
 Cards: 22%
 
 📌 1. Optimize Shipping Strategy
+
 Insight: Standard Class dominates shipping (0.91M), while Same Day delivery has the least share.
 
 Recommendation:
